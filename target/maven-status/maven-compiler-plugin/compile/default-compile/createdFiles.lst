@@ -1,0 +1,6 @@
+com\demo\sms\controller\StudentRestController.class
+com\demo\sms\StudentManagementSystemApplication.class
+com\demo\sms\model\Student.class
+com\demo\sms\controller\StudentWebController.class
+com\demo\sms\service\StudentService.class
+com\demo\sms\repository\StudentRepository.class
